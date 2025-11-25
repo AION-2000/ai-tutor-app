@@ -1,0 +1,45 @@
+name: frontend
+description: AI Tutor App for Bangladeshi students.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+  # State Management
+  provider: ^6.1.2
+
+  # HTTP Requests
+  dio: ^5.4.1
+
+  # Local Storage
+  shared_preferences: ^2.2.3
+  flutter_secure_storage: ^9.0.0  # Added for more secure token storage
+
+  # File Picking
+  image_picker: ^1.0.7
+  file_picker: ^8.0.5
+
+  # Permissions
+  permission_handler: ^11.3.0
+
+  # UI
+  flutter_spinkit: ^5.2.1
+
+  # Additional utilities
+  intl: ^0.19.0  # For date formatting
+  url_launcher: ^6.2.5  # For opening links
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
