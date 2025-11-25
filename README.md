@@ -8,6 +8,11 @@
 > An intelligent, cross-platform learning application that leverages AI to provide instant, personalized answers to academic questions through multiple input modalities including text, image, and audio.
 
 ---
+<img width="413" height="854" alt="image" src="https://github.com/user-attachments/assets/affc2391-828d-4e15-b908-5d1b1d5f87e8" /> <img width="402" height="845" alt="image" src="https://github.com/user-attachments/assets/843347a0-dc6c-40d4-ad77-fb20efcab58a" /> <img width="402" height="844" alt="image" src="https://github.com/user-attachments/assets/1c5daf28-8828-44e3-8cac-2902a0450ad3" /> <img width="406" height="858" alt="image" src="https://github.com/user-attachments/assets/1d265e17-aa8b-49af-b714-0fe8d774af84" /> <img width="404" height="849" alt="image" src="https://github.com/user-attachments/assets/23c6cc51-7e8c-4f7a-bfa3-93981d9619af" />
+
+
+
+
 
 ## 📋 Table of Contents
 
