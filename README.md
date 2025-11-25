@@ -474,9 +474,9 @@ SOFTWARE.
 
 ### Community
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-tutor-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-tutor-app/discussions)
-- **Email**: support@aitutorapp.com
+- **Issues**: [GitHub Issues](https://github.com/AION-2000/ai-tutor-app/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AION-2000/ai-tutor-app/discussions)
+- **Email**: aionshihabshahriar@gmail.com
 
 ### Resources
 
@@ -495,7 +495,7 @@ SOFTWARE.
 
 ---
 
-<p align="center">Made with ❤️ by the AI Tutor Team</p>
+<p align="center">Made with ❤️ by Shihab Shahriar Aion</p>
 <p align="center">
   <a href="#-ai-tutor-app">Back to Top ↑</a>
 </p>
